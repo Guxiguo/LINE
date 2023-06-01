@@ -2,7 +2,12 @@
     "username": "xiguo_gu@126.com",
     "password": "gxg19980709",
     "save_path": "line1.json",
-    "group_number": 4,
     "browser": "Edge",
-    "driver_path": "/Users/guxiguo/Science/LINE/msedgedriver"
+    "driver_path": "/Users/guxiguo/Science/LINE/msedgedriver",
+    "standing time" :0.1,
+    "user_detail_path":"user.json",
+    "group_detial_path":"group.json",
+    "group_relation_path":"relation.json",
+    "group_info_path":"info.json"
+    
 }
